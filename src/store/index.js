@@ -16,28 +16,28 @@ export default createStore({
           artist: "Tupac",
           category: "rap",
           album: "Greatest Hits",
-          image: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/ad/46/6f/ad466f7b848b-c565-47af6c97bb104055/00602527051840.rgb.jpg/1000x1000bb.webp"
+          image: "https://upload.wikimedia.org/wikipedia/en/9/9b/2PacGreatestHits.jpg"
         },
         {
           id: 3,
           artist: "Kendrick Lamar",
           category: "rap",
           album: "DAMN.",
-          image: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/05/b1/f6/05b1f61d944e-2699-7f08-ac195bfed8d2/00602557608717.rgb.jpg/1000x1000bb.webp"
+          image: "https://http2.mlstatic.com/D_NQ_NP_698747-MLU70045180118_062023-O.webp"
         },
         {
           id: 4,
           artist: "Kendrick Lamar",
           category: "rap",
           album: "good kid, m.A.A.d city",
-          image: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/15/c2/d7/15c2d7eb06f8-464d-fe40-18a2de2ca191/00602537362769.rgb.jpg/1000x1000bb.webp"
+          image: "https://m.media-amazon.com/images/I/81EYtj8oi3L._UF894,1000_QL80_.jpg"
         },
         {
           id: 5,
           artist: "Eminem",
           category: "rap",
           album: "The Marshall Mathers LP",
-          image: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/a6/5d/28/a65d286d549b-777c-9bab092397c8758f/00606949062927.rgb.jpg/1000x1000bb.webp"
+          image: "https://musiclife.cl/2181-superlarge_default/eminem-the-marshall-mathers-lp.webp"
         }
       ],
       pop:[
@@ -67,14 +67,14 @@ export default createStore({
           artist: "Madonna",
           category: "pop",
           album: "Like a Virgin",
-          image: "https://is5-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d19/h20/mzi.wxptosa.jpg/1000x1000bb.webp"
+          image: "https://dojiw2m9tvv09.cloudfront.net/36300/product/0812279735995824.jpg"
         },
         {
           id: 10,
           artist: "Madonna",
           category: "pop",
           album: "Like a Virgin",
-          image: "https://is5-ssl.mzstatic.com/image/thumb/Music/y2005/m09/d19/h20/mzi.wxptosa.jpg/1000x1000bb.webp"
+          image: "https://dojiw2m9tvv09.cloudfront.net/36300/product/0812279735995824.jpg"
         }
       ],
       rock: [
@@ -90,7 +90,7 @@ export default createStore({
           artist: "Metallica",
           category: "rock",
           album: "Master of Puppets",
-          image: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/69/f9/05/69f905edff04-58a2-8de2-1b5338745f19/858978005226.png/1000x1000bb.webp"
+          image: "https://cdnx.jumpseller.com/discos-mayra/image/12730700/resize/560/632?1631719683"
         },
         {
           id: 13,

@@ -14,12 +14,14 @@ import BannerItem from '@/components/BannerItem.vue'
 
 export default {
   name: 'HomeView',
-  components: { BannerItem },
+  components: { 
+    BannerItem 
+  },
   methods: {
     irACategoria(categoria) {
       this.$router.push({ name: 'vinilos', params: { categoria } })
     }
-  }
+  },
 }
 </script>
 
